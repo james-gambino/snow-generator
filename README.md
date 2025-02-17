@@ -14,11 +14,11 @@ Snow Generator is a Blender addon that allows you to generate realistic snow mes
 
 ## Installation
 
-1. Download the `snow_generator.py` file
+1. Download the `__init__.py` file
 2. Open Blender and go to Edit > Preferences
 3. Click on the "Add-ons" tab
-4. Click "Install" and navigate to the downloaded `snow_generator.py` file
-5. Enable the addon by checking the box next to "Object: Real Snow"
+4. Click "Install" and navigate to the downloaded `__init__.py` file
+5. Enable the addon by checking the box next to "Object: Snow Generator"
 
 ## Usage
 
